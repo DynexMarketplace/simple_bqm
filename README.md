@@ -1,4 +1,4 @@
-# "Simple BQM Template" Template
+# "Simple BQM" Template
 This template shows you how to compute a simple BQM problem on <strong>Dynex</strong>
 
 <p style="color: green;">FREE TEMPLATE (DYNEX DEVELOPERS)</p>
